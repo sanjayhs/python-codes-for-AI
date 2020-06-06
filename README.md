@@ -1,0 +1,2 @@
+# python-codes-for-AI
+THE CODES FOR AI DONE USING PYTHON
