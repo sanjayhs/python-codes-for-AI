@@ -1,0 +1,25 @@
+#assigning elements to different lists
+list1 = [1,3,5,7,9]
+list2 = [2,4,6,8,10]
+list1.append(11)
+print(list1)
+list2.append(12)
+print(list2)
+
+
+#accessing elements from a tuple
+mylist = ['sanjay','suma','shreyas','srinivas']
+print(mylist[0])
+print(mylist[1])
+print(mylist[2])
+print(mylist[3])
+
+
+
+#deleting different dictionary elements
+mydict = {"cricket":"cool",
+          "football":"tough",
+           "basketball":"hard",
+            "baseball": "hardest"}
+del mydict["baseball"]
+print(mydict)
